@@ -1,6 +1,6 @@
 ### Hi👋
 
-### My name is Siyoun,KIM
+### My name is Siyoun,KIM🌱
 
 <!--
 **KSiyoun/KSiyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
